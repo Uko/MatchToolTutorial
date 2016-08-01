@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "MatchTool",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"matchExpression",
+		"testExpression",
+		"executeButton",
+		"resultList",
+		"matchMapList",
+		"matchNode",
+		"testNode"
+	],
+	"name" : "MatchTool",
+	"type" : "normal"
+}
